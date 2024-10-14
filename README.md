@@ -13,4 +13,4 @@
 Все должно работать
 
 
- forceii / robolainapp - добавил Бд + asp.net core в докер.
+
